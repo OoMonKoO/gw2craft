@@ -1,4 +1,4 @@
-gw2craft
+GW2craft
 ========
 
 GW2craft is a MOD that is based on my favorite MMO GuildWars2.
