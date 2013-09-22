@@ -52,21 +52,21 @@ public class GW2craft {
     public static void load ( FMLInitializationEvent event ) {
         
 
-        MinecraftForge.setBlockHarvestLevel(Blocks.oreCopper, "pickaxe", 1);
-        MinecraftForge.setBlockHarvestLevel(Blocks.oreIron, "pickaxe", 1);
-        MinecraftForge.setBlockHarvestLevel(Blocks.oreSilver, "pickaxe", 2);
+        MinecraftForge.setBlockHarvestLevel(Blocks.oreCopper, "pickaxe", 0);
+        MinecraftForge.setBlockHarvestLevel(Blocks.oreIron, "pickaxe", 0);
+        MinecraftForge.setBlockHarvestLevel(Blocks.oreSilver, "pickaxe", 1);
         MinecraftForge.setBlockHarvestLevel(Blocks.oreGold, "pickaxe", 2);
+        MinecraftForge.setBlockHarvestLevel(Blocks.orePlatinum, "pickaxe", 2);
         MinecraftForge.setBlockHarvestLevel(Blocks.oreMithril, "pickaxe", 2);
-        MinecraftForge.setBlockHarvestLevel(Blocks.orePlatinum, "pickaxe", 3);
         MinecraftForge.setBlockHarvestLevel(Blocks.oreOrichalcum, "pickaxe", 3);
 
 
-        MinecraftForge.setToolClass(Items.toolCopperPickaxeItem, "pickaxe", 1);
+        MinecraftForge.setToolClass(Items.toolCopperPickaxeItem, "pickaxe", 0);
         MinecraftForge.setToolClass(Items.toolIronPickaxeItem, "pickaxe", 1);
         MinecraftForge.setToolClass(Items.toolSilverPickaxeItem, "pickaxe", 2);
         MinecraftForge.setToolClass(Items.toolGoldPickaxeItem, "pickaxe", 2);
+        MinecraftForge.setToolClass(Items.toolPlatinumPickaxeItem, "pickaxe", 2);
         MinecraftForge.setToolClass(Items.toolMithrilPickaxeItem, "pickaxe", 3);
-        MinecraftForge.setToolClass(Items.toolPlatinumPickaxeItem, "pickaxe", 3);
         MinecraftForge.setToolClass(Items.toolOrichalcumPickaxeItem, "pickaxe", 3);
 
         Items.addNames();

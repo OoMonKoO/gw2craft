@@ -20,7 +20,7 @@ public class oreMithrilBlock extends Block {
         super(id, Material.rock);
         this.setUnlocalizedName(Names.oreMithrilBlock_unlocalizedName);
         this.setCreativeTab(GW2craft.gw2craft);
-        this.setHardness(2.0F);
+        this.setHardness(3.0F);
         this.setResistance(10F);
         this.setLightValue(0.2F);
         

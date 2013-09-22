@@ -20,7 +20,7 @@ public class oreOrichalcumBlock extends Block{
         super(id, Material.rock);
         this.setUnlocalizedName(Names.oreOrichalcumBlock_unlocalizedName);
         this.setCreativeTab(GW2craft.gw2craft);
-        this.setHardness(2.5F);
+        this.setHardness(4.5F);
         this.setResistance(10F);
         this.setLightValue(0.2F);
         

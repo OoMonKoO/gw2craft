@@ -20,7 +20,7 @@ public class oreGoldBlock extends Block{
         super(id, Material.rock);
         this.setUnlocalizedName(Names.oreGoldBlock_unlocalizedName);
         this.setCreativeTab(GW2craft.gw2craft);
-        this.setHardness(1.5F);
+        this.setHardness(2.0F);
         this.setResistance(10F);
         this.setLightValue(0.5F);
         
