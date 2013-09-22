@@ -2,7 +2,7 @@ package com.MonK.GW2craft.lib;
 
 public class IDs {
     
-    /**ITEMS**/
+    /**ITEMS & RAW ORES**/
     
     public static int oreCopperItem_ID;
     public static final int oreCopperItem_ID_DEFAULT = 11000;
@@ -28,6 +28,28 @@ public class IDs {
     public static int logGreenWoodItem_ID;
     public static final int logGreenWoodItem_ID_DEFAULT = 11014;
     
+    /** INGOTS **/
+    
+    public static int ingotCopperItem_ID;
+    public static final int ingotCopperItem_ID_DEFAULT = 11015;
+    
+    public static int ingotIronItem_ID;
+    public static final int ingotIronItem_ID_DEFAULT = 11016;
+    
+    public static int ingotSilverItem_ID;
+    public static final int ingotSilverItem_ID_DEFAULT = 11017;
+    
+    public static int ingotGoldItem_ID;
+    public static final int ingotGoldItem_ID_DEFAULT = 11018;
+    
+    public static int ingotPlatinumItem_ID;
+    public static final int ingotPlatinumItem_ID_DEFAULT = 11019;
+    
+    public static int ingotMithrilItem_ID;
+    public static final int ingotMithrilItem_ID_DEFAULT = 11020;
+    
+    public static int ingotOrichalcumItem_ID;
+    public static final int ingotOrichalcumItem_ID_DEFAULT = 11021;
     
     /** TOOLS **/
     

@@ -2,7 +2,7 @@ package com.MonK.GW2craft.lib;
 
 public class Names {
     
-    /** ITEMS **/
+    /** ITEMS & RAW ORES**/
     
     public static final String oreCopperItem_unlocalizedName = "oreCopperItem";
     public static final String oreCopperItem_name = "Raw Copper Ore";
@@ -28,28 +28,51 @@ public class Names {
     public static final String logGreenWoodItem_unlocalizedName = "logGreenWoodItem";
     public static final String logGreenWoodItem_name = "GreenWood Stick";
     
+    /** INGOTS **/
+    
+    public static final String ingotCopperItem_unlocalizedName = "ingotCopperItem";
+    public static final String ingotCopperItem_name = "Refined Copper Ingot";
+    
+    public static final String ingotIronItem_unlocalizedName = "ingotIronItem";
+    public static final String ingotIronItem_name = "Refined Iron Ingot";
+    
+    public static final String ingotSilverItem_unlocalizedName = "ingotSilverItem";
+    public static final String ingotSilverItem_name = "Refined Silver Ingot";
+    
+    public static final String ingotGoldItem_unlocalizedName = "ingotGoldItem";
+    public static final String ingotGoldItem_name = "Refined Gold Ingot";
+    
+    public static final String ingotPlatinumItem_unlocalizedName = "ingotPlatinumItem";
+    public static final String ingotPlatinumItem_name = "Refined Platinum Ingot";
+    
+    public static final String ingotMithrilItem_unlocalizedName = "ingotMithrilItem";
+    public static final String ingotMithrilItem_name = "Refined Mithril Ingot";
+    
+    public static final String ingotOrichalcumItem_unlocalizedName = "ingotOrichalcumItem";
+    public static final String ingotOrichalcumItem_name = "Refined Orichalcum Ingot";
+    
     /** TOOLS **/
     
     public static final String toolCopperPickaxeItem_unlocalizedName = "toolCopperPickaxe";
-    public static final String toolCopperPickaxeItem_name = "Refined Copper Mining pick";
+    public static final String toolCopperPickaxeItem_name = "Copper Mining pick";
     
     public static final String toolIronPickaxeItem_unlocalizedName = "toolIronPickaxe";
-    public static final String toolIronPickaxeItem_name = "Refined Iron Mining pick";
+    public static final String toolIronPickaxeItem_name = "Iron Mining pick";
     
     public static final String toolSilverPickaxeItem_unlocalizedName = "toolSilverPickaxe";
-    public static final String toolSilverPickaxeItem_name = "Refined Silver Mining pick";
+    public static final String toolSilverPickaxeItem_name = "Silver Mining pick";
     
     public static final String toolGoldPickaxeItem_unlocalizedName = "toolGoldPickaxe";
-    public static final String toolGoldPickaxeItem_name = "Refined Gold Mining pick";
+    public static final String toolGoldPickaxeItem_name = "Gold Mining pick";
     
     public static final String toolMithrilPickaxeItem_unlocalizedName = "toolMithrilPickaxe";
-    public static final String toolMithrilPickaxeItem_name = "Refined Mithril Mining pick";
+    public static final String toolMithrilPickaxeItem_name = "Mithril Mining pick";
     
     public static final String toolPlatinumPickaxeItem_unlocalizedName = "toolPlatinumPickaxe";
-    public static final String toolPlatinumPickaxeItem_name = "Refined Platinum Mining Pick";
+    public static final String toolPlatinumPickaxeItem_name = "Platinum Mining Pick";
     
     public static final String toolOrichalcumPickaxeItem_unlocalizedName = "toolOrichalcumPickaxe";
-    public static final String toolOrichalcumPickaxeItem_name = "Refined Orichalcum Mining pick";
+    public static final String toolOrichalcumPickaxeItem_name = "Orichalcum Mining pick";
     
     
     

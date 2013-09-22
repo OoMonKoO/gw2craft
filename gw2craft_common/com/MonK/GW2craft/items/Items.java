@@ -23,6 +23,13 @@ public class Items {
     public static Item oreMithrilItem;
     public static Item oreOrichalcumItem;
     public static Item logGreenWoodItem;
+    public static Item ingotCopperItem;
+    public static Item ingotIronItem;
+    public static Item ingotSilverItem;
+    public static Item ingotGoldItem;
+    public static Item ingotPlatinumItem;
+    public static Item ingotMithrilItem;
+    public static Item ingotOrichalcumItem;
     
     /** TOOLS **/
     
@@ -43,6 +50,13 @@ public class Items {
         oreMithrilItem = new oreMithrilItem(IDs.oreMithrilItem_ID);
         oreOrichalcumItem = new oreOrichalcumItem(IDs.oreOrichalcumItem_ID);
         logGreenWoodItem = new logGreenWoodItem(IDs.logGreenWoodItem_ID);
+        ingotCopperItem = new ingotCopperItem(IDs.ingotCopperItem_ID);
+        ingotIronItem = new ingotIronItem(IDs.ingotIronItem_ID);
+        ingotSilverItem = new ingotSilverItem(IDs.ingotSilverItem_ID);
+        ingotGoldItem = new ingotGoldItem(IDs.ingotGoldItem_ID);
+        ingotPlatinumItem = new ingotPlatinumItem(IDs.ingotPlatinumItem_ID);
+        ingotMithrilItem = new ingotMithrilItem(IDs.ingotMithrilItem_ID);
+        ingotOrichalcumItem = new ingotOrichalcumItem(IDs.ingotOrichalcumItem_ID);
 
         /** TOOLS **/
         
@@ -66,6 +80,13 @@ public class Items {
         LanguageRegistry.addName(oreMithrilItem, Names.oreMithrilItem_name);
         LanguageRegistry.addName(oreOrichalcumItem, Names.oreOrichalcumItem_name);
         LanguageRegistry.addName(logGreenWoodItem, Names.logGreenWoodItem_name);
+        LanguageRegistry.addName(ingotCopperItem, Names.ingotCopperItem_name);
+        LanguageRegistry.addName(ingotIronItem, Names.ingotIronItem_name);
+        LanguageRegistry.addName(ingotSilverItem, Names.ingotSilverItem_name);
+        LanguageRegistry.addName(ingotGoldItem, Names.ingotGoldItem_name);
+        LanguageRegistry.addName(ingotPlatinumItem, Names.ingotPlatinumItem_name);
+        LanguageRegistry.addName(ingotMithrilItem, Names.ingotMithrilItem_name);
+        LanguageRegistry.addName(ingotOrichalcumItem, Names.ingotOrichalcumItem_name);
         
         /** TOOLS **/
         

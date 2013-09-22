@@ -46,6 +46,14 @@ public class ConfigurationHandler {
             IDs.oreMithrilItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.oreMithrilItem_name, IDs.oreMithrilItem_ID_DEFAULT).getInt(IDs.oreMithrilItem_ID_DEFAULT);
             IDs.oreOrichalcumItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.oreOrichalcumItem_name, IDs.oreOrichalcumItem_ID_DEFAULT).getInt(IDs.oreOrichalcumItem_ID_DEFAULT);
             IDs.logGreenWoodItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.logGreenWoodItem_name, IDs.logGreenWoodItem_ID_DEFAULT).getInt(IDs.logGreenWoodItem_ID_DEFAULT);
+            IDs.ingotCopperItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotCopperItem_name, IDs.ingotCopperItem_ID_DEFAULT).getInt(IDs.ingotCopperItem_ID_DEFAULT);
+            IDs.ingotIronItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotIronItem_name, IDs.ingotIronItem_ID_DEFAULT).getInt(IDs.ingotIronItem_ID_DEFAULT);
+            IDs.ingotSilverItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotSilverItem_name, IDs.ingotSilverItem_ID_DEFAULT).getInt(IDs.ingotSilverItem_ID_DEFAULT);
+            IDs.ingotGoldItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotGoldItem_name, IDs.ingotGoldItem_ID_DEFAULT).getInt(IDs.ingotGoldItem_ID_DEFAULT);
+            IDs.ingotPlatinumItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotPlatinumItem_name, IDs.ingotPlatinumItem_ID_DEFAULT).getInt(IDs.ingotPlatinumItem_ID_DEFAULT);
+            IDs.ingotMithrilItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotMithrilItem_name, IDs.ingotMithrilItem_ID_DEFAULT).getInt(IDs.ingotMithrilItem_ID_DEFAULT);
+            IDs.ingotOrichalcumItem_ID = config.get(Configuration.CATEGORY_ITEM, Names.ingotOrichalcumItem_name, IDs.ingotOrichalcumItem_ID_DEFAULT).getInt(IDs.ingotOrichalcumItem_ID_DEFAULT);
+            
             
             /** TOOLS **/
             
