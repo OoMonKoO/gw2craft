@@ -30,11 +30,11 @@ public class WorldGen implements IWorldGenerator {
   {
       this.addOreSpawn(Blocks.oreCopper, world, random, x, z, 16, 16, 4 + random.nextInt(5), 10, 60, 90);
       this.addOreSpawn(Blocks.oreIron, world, random, x, z, 16, 16, 4 + random.nextInt(5), 10, 50, 60);
-      this.addOreSpawn(Blocks.oreSilver, world, random, x, z, 16, 16, 4 + random.nextInt(5), 10, 50, 60);
-      this.addOreSpawn(Blocks.oreGold, world, random, x, z, 16, 16, 4 + random.nextInt(5), 10, 30, 50);
-      this.addOreSpawn(Blocks.orePlatinum, world, random, x, z, 16, 16, 4 + random.nextInt(2), 6, 60, 90);
-      this.addOreSpawn(Blocks.oreMithril, world, random, x, z, 16, 16, 4 + random.nextInt(4), 10, 60, 90);
-      this.addOreSpawn(Blocks.oreOrichalcum, world, random, x, z, 16, 16, 4 + random.nextInt(2), 5, 60, 90);
+      this.addOreSpawn(Blocks.oreSilver, world, random, x, z, 16, 16, 4 + random.nextInt(4), 8, 50, 60);
+      this.addOreSpawn(Blocks.oreGold, world, random, x, z, 16, 16, 4 + random.nextInt(4), 7, 30, 35);
+      this.addOreSpawn(Blocks.orePlatinum, world, random, x, z, 16, 16, 4 + random.nextInt(2), 6, 20, 25);
+      this.addOreSpawn(Blocks.oreMithril, world, random, x, z, 16, 16, 4 + random.nextInt(3), 5, 15, 25);
+      this.addOreSpawn(Blocks.oreOrichalcum, world, random, x, z, 16, 16, 4 + random.nextInt(2), 2, 3, 20);
 
       for (int t = 0; t < 1; t++)
       {
