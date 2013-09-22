@@ -1,0 +1,19 @@
+[
+{
+  "modid": "gw2craft",
+  "name": "GuildWars2 Craft",
+  "description": "GW2craft is based on my favorite MMO GuildWars2!",
+  "version": "0.0.1",
+  "url": "",
+  "authorList": [
+  "OoMonKoO"
+],
+  "credits": "Big Thank goes to ArenaNet for making an awsome MMO GW2!",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": ""
+  "dependencies": [forge-9.10.1.870"
+],
+  "mcversion": "1.6.2"
+}
+]
